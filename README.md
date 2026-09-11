@@ -91,6 +91,6 @@ The dataset used is the **Persian Traffic Sign Dataset (PTSD)** from Kaggle: htt
 
 **Overall model accuracy on the test set:**
 
-![H4Q1 Output](Homework/HW4/Output/h4_out.png)
+![H4Q1 Output](Homework/HW4/Output/h4_out.jpg)
 
 ---
