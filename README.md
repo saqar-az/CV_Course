@@ -94,3 +94,28 @@ The dataset used is the **Persian Traffic Sign Dataset (PTSD)** from Kaggle: htt
 ![H4Q1 Output](Homework/HW4/Output/h4_out.jpg)
 
 ---
+
+## Project: Violence Detection in Video Using R3D-18
+
+A deep learning project for detecting violent content in videos using the **R3D-18** (3D Residual Network) architecture.
+
+---
+
+## Dataset
+
+The model is trained on a combined violence detection dataset from Kaggle:
+
+- https://www.kaggle.com/datasets/lamdo2k3/violence-dataset
+- https://www.kaggle.com/datasets/longhoangminh/violence-video-dataset
+
+---
+
+### src
+
+- `train.py`: Build and train the R3D-18 model on the combined violence detection dataset.
+- `heatmap.py`: Generate heatmaps on video frames to visualize which regions the model focuses on when detecting violence.
+
+
+**Output:**
+
+![P Output](Homework/Project/Output/output.png)
