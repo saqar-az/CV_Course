@@ -118,4 +118,4 @@ The model is trained on a combined violence detection dataset from Kaggle:
 
 **Output:**
 
-![P Output](Homework/Project/Output/output.png)
+![P Output](Project/Output/output.png)
